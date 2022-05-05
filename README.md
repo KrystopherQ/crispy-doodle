@@ -1,7 +1,7 @@
 # Crispy Doodle
 
 ## Description 
-    a
+    e-commerce back-end created using dotenv, express, mysql2, and sequelize.
             
 ## Table of Contents
             
@@ -11,8 +11,13 @@
             
                         
 ## Usage 
-    a
-            
+ 
+    below is an example of usage using insomia.
+
+![get request gif](./assets/get.gif)
+
+
+![delete request gif](./assets/delete.gif)
             
 ## License
     MIT License
