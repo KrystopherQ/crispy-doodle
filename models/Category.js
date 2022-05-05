@@ -16,8 +16,6 @@ Category.init(
     catergory_name:{
       type:DataTypes.INTEGER,
       allowNull:false,
-      primaryKey:true,
-      autoIncrement:true
     }
   },
   
